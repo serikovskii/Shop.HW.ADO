@@ -1,0 +1,44 @@
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\Database.mdf
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.dll
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.pdb
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.dll
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.pdb
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.dll
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\bin\Debug\Database.mdf
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.dll
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.dll
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.dll
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.pdb
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\bin\Debug\Database.mdf
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.dll
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.pdb
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.dll
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.pdb
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.dll
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\bin\Debug\Database.mdf
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\bin\Debug\Database_log.ldf
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.dll
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.DataAccess.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.dll
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\bin\Debug\ShopApp.Models.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.dll
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp.DataAccess\obj\Debug\ShopApp.DataAccess.pdb

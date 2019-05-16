@@ -1,0 +1,29 @@
+﻿<Window x:Class="ShopApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:ShopApp"
+        xmlns:model="clr-namespace:ShopApp.Models;assembly=ShopApp.Models"
+        mc:Ignorable="d"
+        Title="База данных" Height="400" Width="550">
+
+    <StackPanel>
+        <TextBlock HorizontalAlignment="Center" Margin="20">Выберете базу данных</TextBlock>
+        <ComboBox Name="databasesList" Height="30" Width="200" VerticalAlignment="Top" SelectionChanged="ComboBoxSelected">
+            <ComboBoxItem Name="Buyers" Foreground="Black">Покупатели</ComboBoxItem>
+            <ComboBoxItem Name="Sellers" Foreground="Black">Продавцы</ComboBoxItem>
+            <ComboBoxItem Name="Sales" Foreground="Black">Продажи</ComboBoxItem>
+        </ComboBox>
+        <Grid>
+            <DataGrid x:Name="itemsGrid" AutoGenerateColumns="True" RowBackground="Red" AlternatingRowBackground="White" 
+                      ItemsSource="{DynamicResource ResourceKey=items}">
+                <DataGrid.Resources>
+                    <col:ArrayList x:Key="items"></col:ArrayList>
+                </DataGrid.Resources>
+            </DataGrid>
+        </Grid>
+    </StackPanel>
+</Window>

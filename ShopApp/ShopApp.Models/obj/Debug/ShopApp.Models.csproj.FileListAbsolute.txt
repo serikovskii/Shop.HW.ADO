@@ -1,0 +1,12 @@
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.Models\bin\Debug\ShopApp.Models.dll
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.Models\bin\Debug\ShopApp.Models.pdb
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.dll
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.Models\bin\Debug\ShopApp.Models.dll
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.Models\bin\Debug\ShopApp.Models.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.csprojAssemblyReference.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.dll
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp.Models\obj\Debug\ShopApp.Models.pdb

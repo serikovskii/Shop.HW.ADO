@@ -1,0 +1,73 @@
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\MainWindow.g.cs
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\App.g.cs
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp_MarkupCompile.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp_MarkupCompile.lref
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\MainWindow.baml
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.g.resources
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\Database.mdf
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\Database_log.ldf
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.DataAccess.dll
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.Models.dll
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.DataAccess.pdb
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\bin\Debug\ShopApp.Models.pdb
+C:\Users\Askar Kerimtay\source\repos\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CopyComplete
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\Database.mdf
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\Database_log.ldf
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\ShopApp.DataAccess.dll
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\ShopApp.Models.dll
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\ShopApp.DataAccess.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\bin\Debug\ShopApp.Models.pdb
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\MainWindow.g.cs
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\App.g.cs
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp_MarkupCompile.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp_MarkupCompile.lref
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\MainWindow.baml
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.g.resources
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CopyComplete
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\КеримтайА\Documents\GitHub\Shop\ShopApp\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\azat\Desktop\da ado askar\Shop-master\ShopApp\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\Database.mdf
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\Database_log.ldf
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\ShopApp.DataAccess.dll
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\ShopApp.Models.dll
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\ShopApp.DataAccess.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\ShopApp.Models.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\MainWindow.g.cs
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\App.g.cs
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp_MarkupCompile.cache
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp_MarkupCompile.lref
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\MainWindow.baml
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.g.resources
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.csproj.CopyComplete
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\azat\Documents\GitHub\Shop.HW.ADO\ShopApp\ShopApp\obj\Debug\App.baml
